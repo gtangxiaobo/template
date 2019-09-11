@@ -8,8 +8,8 @@
     "@vue/cli-plugin-eslint": {
       "config": "airbnb",
       "lintOn": ["save", "commit"],
-      "version": "^3.0.0",
-      "prompts": true
+      "version": "^3.0.0"
+      // "prompts": true
     }
   }
 }
