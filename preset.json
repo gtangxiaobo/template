@@ -9,7 +9,6 @@
       "config": "airbnb",
       "lintOn": ["save", "commit"],
       "version": "^3.0.0"
-      // "prompts": true
     }
   }
 }
